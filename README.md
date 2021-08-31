@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asia
-- 👀 I’m interested in data science and machine learning.
+- 👀 I’m a data analyst and scientist.
 - 🌱 I’m currently learning unsupervised learning, neural networks and recommender systems. 
 - 💞️ I’m looking to collaborate on data visualization projects to solve real world problems.
 - 📫 Please contact me through [Linked In ](https://linkedin.com/in/asiaroyd)
